@@ -1,2 +1,2 @@
 # mirrororrim
-A parallel site mirroring tool written in golang
+A parallel site mirroring, pigeon syncing, tool written in golang
